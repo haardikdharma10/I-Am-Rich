@@ -1,5 +1,3 @@
-# I am Rich!
-
 ## What is "I am Rich" app?
 
 The "I am Rich" app is equivalent to the "Hello World" program in most of the languages. On getting started with Dart and Flutter development, this is the tradition that is followed. This app was originally developed by Armin Heinrich in the year 2008 and was distributed using the App Store. When launched, the screen only contained a glowing red gem and an icon that, when pressed, displays the following mantra in large text:
